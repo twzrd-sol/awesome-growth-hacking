@@ -41,6 +41,7 @@ BTC: 15gvhb6DUTAeGGXVLpjv2fcgkMoUFUqe8f
 * [Quora topics](https://www.quora.com/topic/Growth-Hacking)
 
 #### Tools 
+* [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust scoring for AI agents on Solana. Verify agent wallet identity before x402 micropayments. MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
 * [Where to get press coverage for your startup](http://submit.co/) - Submit.co
 * [List of growth hacking tools](http://blog.twoodo.com/14/huge-epic-list-of-growth-hacking-tools-for-non-coders/)
 * [35 Growth Hacking Tools](https://blog.kissmetrics.com/35-growth-hacking-tools/)
